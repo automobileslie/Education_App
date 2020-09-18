@@ -11,6 +11,9 @@ export default class Profile extends React.Component{
 
         <div>
             <h1 className="heading">Here you are.</h1>
+
+
+
         </div>
         )
     }
